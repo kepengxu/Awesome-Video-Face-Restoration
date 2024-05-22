@@ -31,6 +31,8 @@ A curated list of awesome video face restoration  papers and resources :whale:, 
 
 - `[IJCAI 2024]` Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer, Xu et al. [Paper](https://arxiv.org/abs/2404.13640) | [Project](https://kepengxu.github.io/projects/pgtformer)
 
+- `[ArXiv]` Towards Real-world Video Face Restoration: A New Benchmark [Paper](http://arxiv.org/abs/2404.19500) | [Project](https://github.com/ziyannchen/VFRxBenchmark)
+
 
 #### Video Face Dataset
 | Dataset | Description |
