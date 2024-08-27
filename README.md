@@ -34,6 +34,7 @@ A curated list of awesome video face restoration  papers and resources :whale:, 
 - `[ArXiv]` Towards Real-world Video Face Restoration: A New Benchmark [Paper](http://arxiv.org/abs/2404.19500) | [Project](https://github.com/ziyannchen/VFRxBenchmark)
 
 - `[ArXiv]` FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration https://arxiv.org/abs/2311.15445
+- `[ECCV 2024]` Kalman-Inspired FEaturE Propagation for Video Face Super-Resolution [Project](https://jnjaby.github.io/projects/KEEP/)
 
 
 #### Video Face Dataset
