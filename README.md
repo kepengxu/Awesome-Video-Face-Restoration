@@ -4,6 +4,7 @@
 
 A curated list of awesome video face restoration  papers and resources :whale:, inspired by [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF). 
 
+If any article is missed, please help to raise an issue. 🙂🙂🙂
 
 
 ## Table of Contents
